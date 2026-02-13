@@ -1,2 +1,3 @@
 # Continuous_integration_tutorial
-end to end tutorial of Continuous Integration
+This project is to demonstrate an end to end implementation of Continuous Integration.
+
